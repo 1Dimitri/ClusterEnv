@@ -1,5 +1,5 @@
 # ClusterEnv
-WHen running on a Windows Failover cluster node, this tool  runs a command under a resource name as computername if the application uses the standard APIs.
+When running on a Windows Failover cluster node, this tool  runs a command under a resource name as computername if the application uses the standard APIs.
 
 
 ## Usage
